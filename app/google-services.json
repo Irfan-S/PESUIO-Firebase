@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "747586408213",
+    "firebase_url": "https://pesuio-16e55.firebaseio.com",
+    "project_id": "pesuio-16e55",
+    "storage_bucket": "pesuio-16e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747586408213:android:f4d0da6923d132fa13631c",
+        "android_client_info": {
+          "package_name": "irfan.apps.pesuiofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747586408213-6l96re5na1ufhd78nth7o2hmhibjlidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8t19W_wSETcrwoIW7v-HNvnN2vPjnhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747586408213-6l96re5na1ufhd78nth7o2hmhibjlidk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747586408213:android:e6e533efcf60d5a613631c",
+        "android_client_info": {
+          "package_name": "irfans.prac.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747586408213-6l96re5na1ufhd78nth7o2hmhibjlidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8t19W_wSETcrwoIW7v-HNvnN2vPjnhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747586408213-6l96re5na1ufhd78nth7o2hmhibjlidk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
